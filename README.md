@@ -1,5 +1,9 @@
 # Petsent
 Pet crowdsourcing and gamification
+It is estimated that 1 in 3 pets in the US will need emergency veterinary treatment every year.
+
+In 60% of those cases, the owner will not be able to fully afford these expenses. Here is a crowdsourcing app that gamifies the process of providing Pet care.
+
 
 
 
