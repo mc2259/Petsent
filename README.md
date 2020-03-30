@@ -2,7 +2,7 @@
 Pet crowdsourcing and gamification.
 It is estimated that 1 in 3 pets in the US will need emergency veterinary treatment every year.
 
-In 60% of those cases, the owner will not be able to fully afford these expenses.Thus we came up with a social-media app called Petcents using Swift to crowdfund costs of animal surgery after vet-verification and incentivise pet-owners to take their pets for regular check-ups.
+In 60% of those cases, the owner will not be able to fully afford these expenses.Thus, at the Animal Health Hackathon, we came up with a social-media app called Petcents using Swift to crowdfund costs of animal surgery after vet-verification and incentivise pet-owners to take their pets for regular check-ups.
 
 
 
