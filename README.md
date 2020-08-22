@@ -23,4 +23,8 @@ In 60% of those cases, the owner will not be able to fully afford these expenses
 
 
 
+# How to use this File
 
+1. Clone the repository
+2. Dependencies: XCode 10.0 or above
+3.
